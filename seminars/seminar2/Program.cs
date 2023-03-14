@@ -6,7 +6,7 @@
 //   int dec = num / 10;
 //   if (ed > dec)
 //   {
-//     Console.WriteLine ($"большая цифра числа {num} -> {ed} "); // return ed
+//     Console.WriteLine ($"большая цифра числа {num} -> {ed} "); // (если метод int, a не void), то return ed
 
 //   }
 //   else 
@@ -35,9 +35,9 @@
 // }
 
 // int rundomnumber =  new Random().Next(100, 1000);
-// // Console.WriteLine(rundomnumber);
+// Console.WriteLine(rundomnumber)
 // // int result = DeleteDecimal(rundomnumber);
-// // Console.WriteLine(rundomnumber);
+// // Console.WriteLine(result);
 
 // Console.WriteLine(DeleteDecimal(rundomnumber));
 
@@ -67,25 +67,25 @@
 
 // 4. Написать программу, которая будет принимать на вход 2 числа и выводить, является ли число кратным первому. Если не кратно, то вывести остаток от деления.
 
-void TwoNumbersKrat(int num1, int num2)
-{
-    if (num1 / num2 == 0)
-    {
-        Console.WriteLine("kratno");
-    }
-    else
-    {
-        Console.WriteLine($"остаток от деления равен {num1}/{num2}= {num1 % num2}");
+// void TwoNumbersKrat(int num1, int num2)
+// {
+//     if (num1 / num2 == 0)
+//     {
+//         Console.WriteLine("kratno");
+//     }
+//     else
+//     {
+//         Console.WriteLine($"остаток от деления равен {num1}/{num2}= {num1 % num2}");
     
-  }
-}
-Console.WriteLine("input 1 number");
-int num1 = Convert.ToInt32(Console.ReadLine());
+//   }
+// }
+// Console.WriteLine("input 1 number");
+// int num1 = Convert.ToInt32(Console.ReadLine());
 
-Console.WriteLine("input 2 number");
-int num2 = Convert.ToInt32(Console.ReadLine());
+// Console.WriteLine("input 2 number");
+// int num2 = Convert.ToInt32(Console.ReadLine());
 
-TwoNumbersKrat(num1, num2);
+// TwoNumbersKrat(num1, num2);
 
 
 
