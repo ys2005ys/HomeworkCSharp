@@ -1,0 +1,15 @@
+C:\Users\ys200\OneDrive\Pulpit\SeminarC#\homeworks\homework8_2\bin\Debug\net7.0\homework8_2.exe
+C:\Users\ys200\OneDrive\Pulpit\SeminarC#\homeworks\homework8_2\bin\Debug\net7.0\homework8_2.deps.json
+C:\Users\ys200\OneDrive\Pulpit\SeminarC#\homeworks\homework8_2\bin\Debug\net7.0\homework8_2.runtimeconfig.json
+C:\Users\ys200\OneDrive\Pulpit\SeminarC#\homeworks\homework8_2\bin\Debug\net7.0\homework8_2.dll
+C:\Users\ys200\OneDrive\Pulpit\SeminarC#\homeworks\homework8_2\bin\Debug\net7.0\homework8_2.pdb
+C:\Users\ys200\OneDrive\Pulpit\SeminarC#\homeworks\homework8_2\obj\Debug\net7.0\homework8_2.csproj.AssemblyReference.cache
+C:\Users\ys200\OneDrive\Pulpit\SeminarC#\homeworks\homework8_2\obj\Debug\net7.0\homework8_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ys200\OneDrive\Pulpit\SeminarC#\homeworks\homework8_2\obj\Debug\net7.0\homework8_2.AssemblyInfoInputs.cache
+C:\Users\ys200\OneDrive\Pulpit\SeminarC#\homeworks\homework8_2\obj\Debug\net7.0\homework8_2.AssemblyInfo.cs
+C:\Users\ys200\OneDrive\Pulpit\SeminarC#\homeworks\homework8_2\obj\Debug\net7.0\homework8_2.csproj.CoreCompileInputs.cache
+C:\Users\ys200\OneDrive\Pulpit\SeminarC#\homeworks\homework8_2\obj\Debug\net7.0\homework8_2.dll
+C:\Users\ys200\OneDrive\Pulpit\SeminarC#\homeworks\homework8_2\obj\Debug\net7.0\refint\homework8_2.dll
+C:\Users\ys200\OneDrive\Pulpit\SeminarC#\homeworks\homework8_2\obj\Debug\net7.0\homework8_2.pdb
+C:\Users\ys200\OneDrive\Pulpit\SeminarC#\homeworks\homework8_2\obj\Debug\net7.0\homework8_2.genruntimeconfig.cache
+C:\Users\ys200\OneDrive\Pulpit\SeminarC#\homeworks\homework8_2\obj\Debug\net7.0\ref\homework8_2.dll
